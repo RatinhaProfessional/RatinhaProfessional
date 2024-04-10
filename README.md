@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there 👋
+
+##I' Multimedia Design alumni and Web Development student delving into realm of disappearing semiclones, (un)forgettable brackets and endless possibilities.
 
 <!--
 **RatinhaProfessional/RatinhaProfessional** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
