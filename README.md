@@ -1,7 +1,10 @@
 ### Hello there 👋
 
-**I' Multimedia Design alumni and Web Development student delving into realm of disappearing semiclones, (un)forgettable brackets and endless possibilities.**
+**A Full-stack Devoloper by day :sunny: and a trpg enjoyer by night :crescent_moon:**
 
+- :notebook: Multimedia Design alumni & Web Dev student at EASV
+- :gear: Learning: .js, .ts, .php, .html, .css, .scss, .sql, .yaml
+- :bulb: Creative soul fueled by cake and vast amount of naps
 <!--
 **RatinhaProfessional/RatinhaProfessional** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
