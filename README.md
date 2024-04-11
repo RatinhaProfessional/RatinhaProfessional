@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hello there!
 
 **Full-stack Devoloper by day :sunny: and TRPG enjoyer by night :crescent_moon:**
 
