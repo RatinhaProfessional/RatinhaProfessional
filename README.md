@@ -2,9 +2,12 @@
 
 **Full-stack Devoloper by day :sunny: and TRPG enjoyer by night :crescent_moon:**
 
-- :notebook: Multimedia Design alumni & Web Dev student at EASV
+- :notebook: Multimedia Design alumni & Web Dev student
 - :gear: Learning: .js, .ts, .php, .html, .css, .scss, .sql, .yaml
 - :bulb: Creative soul fueled by cake and vast amount of naps
+
+  Teck Stack:
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 <!--
 **RatinhaProfessional/RatinhaProfessional** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
