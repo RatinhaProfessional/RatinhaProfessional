@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-**A Full-stack Devoloper by day :sunny: and a trpg enjoyer by night :crescent_moon:**
+**Full-stack Devoloper by day :sunny: and TRPG enjoyer by night :crescent_moon:**
 
 - :notebook: Multimedia Design alumni & Web Dev student at EASV
 - :gear: Learning: .js, .ts, .php, .html, .css, .scss, .sql, .yaml
