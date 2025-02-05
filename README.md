@@ -2,7 +2,7 @@
 
 **Full-stack Devoloper by day :sunny: TRPG enjoyer by night :crescent_moon:**
 
-- :notebook: Multimedia Design alumni & Web Dev student
+- :notebook: Multimedia Design & Web Dev graduate
 - :gear: Learning: .js, .ts, .php, .html, .css, .scss, .sql, .yaml
 - :bulb: Creative soul fueled by cake and vast amount of naps
 
